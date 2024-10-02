@@ -65,3 +65,4 @@ npm run test
 - Implement better typing with interface
 - Use class/static methods instead of functions
 - Create a local mirror with all the assets as well as html so that the saved page when opened in the browser would load properly
+- I will carry out a more thorough review of the whole flow

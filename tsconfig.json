@@ -1,0 +1,23 @@
+{
+    "compilerOptions": {
+      "rootDir": "src",
+      "outDir": "build",
+      "module": "commonjs",
+      "target": "es2019",
+      "lib": ["es2020"],
+      "pretty": true,
+      "incremental": true,
+      "allowJs": true,
+      "esModuleInterop": true,
+      "noImplicitReturns": true,
+      "noImplicitThis": true,
+      "strictNullChecks": true,
+      "strictPropertyInitialization": true
+    },
+    "include": [
+      "src/**/*.ts",
+    ],
+    "exclude": [
+      "package.json"
+    ]
+  }
